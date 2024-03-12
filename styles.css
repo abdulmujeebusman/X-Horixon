@@ -25,3 +25,6 @@
 .yeat{
     color: darkgrey;
 }
+body{
+     overflow-x: hidden;
+}
